@@ -1,0 +1,43 @@
+* {
+
+	box-sizing: border-box;
+}
+
+img {
+	border-radius: 100%;
+	
+}
+
+h1 {
+
+	color: red;
+	height:150px ;
+}
+.header {
+	border: 2px solid black;
+	padding: 20px;
+
+
+}
+.section {
+	display: flex;
+	display: flex;
+	width: 200px;
+	height:800px;
+}
+
+.nav {
+
+	flex: 1;
+	flex: 1;
+	background-color: blue;
+}
+
+main {
+
+	flex: 3;
+	flex: 3;
+	background-color: pink;
+
+}
+
