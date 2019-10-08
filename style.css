@@ -66,8 +66,13 @@ main {
 
 hr {
 
-	border: 1px solid grey;
-	border-width: 0.5px;
+	border: 2px solid grey;
 
+
+}
+
+.a {
+
+	background-color: red;
 }
 
