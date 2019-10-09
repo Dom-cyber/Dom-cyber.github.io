@@ -75,4 +75,35 @@ hr {
 
 }
 
+.worka { 
+float: left;
+ }
+.workb {
 
+float: right;
+}
+
+.edu1 {
+	float: left;
+}
+.edu2 {
+ float: right;
+
+}
+.edu3 { 
+float: left;
+ }
+
+ .edu4 {
+float: right;
+
+ }
+
+ .edu5 {
+
+ 	float: left;
+ }
+
+ .edu6 { 
+ float: right;
+  }
