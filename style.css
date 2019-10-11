@@ -1,7 +1,4 @@
-* {
 
-	box-sizing: border-box;
-}
 p {
 
 	white-space: 20px;
@@ -62,7 +59,7 @@ background-color: #989898;
 	background-color: #fefbd8;
 }
 
-main {
+.main {
 
 	flex: 3;
 	flex: 3;
@@ -77,12 +74,24 @@ hr {
 
 }
 
+.center_align {
+
+	margin: auto;
+	width: 500px;
+	
+}
 .worka { 
 float: left;
+width: 20%;
+clear: both;
  }
+
 .workb {
 
 float: right;
+width: 35%;
+padding-left: 12px;
+
 }
 
 .edu1 {
